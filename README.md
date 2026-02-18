@@ -2,17 +2,9 @@
 
 A simple calculator built with vanilla HTML, CSS, and JavaScript. Part of The Odin Project Foundations course.
 
-## Features
-
-- Basic arithmetic operations (addition, subtraction, multiplication, division)
-- Decimal number support
-- Operation history display
-- Clear and reset functionality
-- Division by zero protection
-
 ## Live Demo
 
-[View Live](https://yourusername.github.io/calculator)
+[View Live](https://Mahmoud-Badi.github.io/calculator)
 
 ## Technologies Used
 
@@ -27,13 +19,3 @@ A simple calculator built with vanilla HTML, CSS, and JavaScript. Part of The Od
 3. Enter the second number
 4. Click equals (=) to calculate
 5. Click AC to clear everything
-
-## Project Structure
-
-```
-calculator/
-├── index.html
-├── style.css
-├── main.js
-└── README.md
-```
